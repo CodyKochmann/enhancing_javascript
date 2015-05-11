@@ -8,7 +8,12 @@
     [X] - word_count
     [ ] - find_all
     [ ] - count_sentences
-
+    [ ] - longest_word
+    [ ] - most_common_word
+    [ ] - most_common_pattern
+    [ ] - spell_check
+    [ ] - reading_level
+    [ ] - estimate_type
 */
 
 String.prototype.contains = function(search_str){/*
