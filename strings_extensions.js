@@ -11,6 +11,8 @@
     [ ] - longest_word
     [ ] - most_common_word
     [ ] - most_common_pattern
+    [ ] - is_multi_line
+    [ ] - find_lines_containing
     [ ] - spell_check
     [ ] - reading_level
     [ ] - estimate_type
